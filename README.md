@@ -18,7 +18,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> 
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
  
- <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/3b223445fdff3b69c1ea6e7142b03d7e.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+ <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/3b223445fdff3b69c1ea6e7142b03d7e.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
   
   ##
