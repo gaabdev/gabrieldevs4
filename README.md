@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estudo front- end
 - 🌱Eu estou aprendendo Bootstrap e Javascript
-- 💬 Falo sobre Programação em geral, mas gosto principalmente do Back- end
+- 💬 Gosto de Programação em geral, mas sou entusiasta principalmente do Back- end
 - 😄 Pronouns: Ele/dele
  <div>
   <a href="https://github.com/gabrieldevs4">
