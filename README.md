@@ -1,11 +1,11 @@
-### <h1>Olá pessoal! Meu nome é Gabriel Silva, sou um Programdor por diversão! 👋</h1>
+### <h1>Olá pessoal! Meu nome é Gabriel Silva👋</h1>
 
 
 
-- 🔭 Atualmente estudo front- end
-- 🌱Eu estou aprendendo Bootstrap e Javascript
-- 💬 Gosto de Programação em geral, mas sou entusiasta principalmente do Back- end
-- 😄 Pronouns: Ele/dele
+<h3>🔭 Sou um Programador por diversão!</h3> 
+<h3> 🌱estou aprendendo Bootstrap e Flutter</3>
+<h3>💬 Gosto de Programação em geral, mas sou entusiasta Back- end</h3>
+
  <div>
   <a href="https://github.com/gabrieldevs4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldevs4&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
