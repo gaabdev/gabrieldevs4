@@ -3,7 +3,7 @@
 
 
 <h3>🔭 Sou um Programador por diversão!</h3> 
-<h3> 🌱estou aprendendo Bootstrap e Python.</3>
+<h3> 🌱Estou aprendendo Django, Banco de Dados e Python.</3>
 <h3>💬 Gosto de Programação em geral, mas sou entusiasta Back- end</h3>
 
  <div>
